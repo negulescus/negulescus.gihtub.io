@@ -9,6 +9,6 @@ Read about this project in my blog post:
 
 This project uses Web Bluetooth which is currently only available on Chrome for Android 6+, Mac OS X, Chrome OS (and also [Linux](https://www.espruino.com/Web+Bluetooth+On+Linux), but behind a flag).
 
-➡ [Online Demo](https://urish.github.io/web-lightbulb)
+➡ [Online Demo](https://negulescus.github.io/webble/web/)
 
 ➡ [Improved version by Sagi363](https://github.com/Sagi363/smart-lightbulb)
